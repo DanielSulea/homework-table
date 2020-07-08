@@ -1,0 +1,23 @@
+.tg  {
+        border-radius: 5px;
+        border-spacing: 8px;
+        }
+    .tg td { 
+        border-color: white;
+        border-radius: 5px;
+        padding:20px 60px;
+        }
+    .tg th {
+        border-color:white;
+        border-radius: 5px;
+        padding:20px 60px;
+        }
+    .tg .tg-full-row {
+        background-color:#ffe865;
+        }
+    .tg .tg-quarter-row {
+        background-color: rgb(35, 120, 216);
+        }
+    .tg .tg-half-row {
+        background-color:#00d2cb;
+        }
